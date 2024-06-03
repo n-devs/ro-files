@@ -4,7 +4,7 @@ FROM node:18
 WORKDIR /ro-files
 
 
-COPY package*.json ./
+# COPY package*.json ./
 
 
 COPY . .
