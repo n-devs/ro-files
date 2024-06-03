@@ -1,7 +1,6 @@
-data/*
+
 resources/*.grf
-AI/*
-BGM/*
+
 EasyAntiCheat
 Navigationdata
 PatchClient
