@@ -7,7 +7,7 @@ WORKDIR /ro-files
 COPY package*.json ./
 
 
-COPY index.js ./
+COPY . .
 
 
 CMD [ "node", "index.js" ]
